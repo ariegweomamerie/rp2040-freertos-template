@@ -1,4 +1,20 @@
-# rp2040-freertos-template
-This is a template project for developing FreeRTOS based applications on Raspberry Pi RP2040 based boards. This template uses the "official" RP2040 port from the Raspberry Pi Foundation. My previous repo used the generic Cortex M0 port so this one corrects that. Previous Repo retained as tutorials rely on it. 
+# 📦 RP2040 FreeRTOS Project Template
 
-Unmodified, this project will spawn a single task to rapidly blink the LED on and off.
+A professional, ready-to-use **CMake + FreeRTOS project template** for the **Raspberry Pi Pico** (RP2040).  
+This template is designed to help you quickly start real-time operating system (RTOS) projects on the RP2040 using FreeRTOS and the Pico SDK.
+
+---
+
+## ✨ Features
+
+- 🧩 FreeRTOS integrated with Raspberry Pi Pico SDK
+- 📁 Organized project structure (source, include, CMake)
+- 🛠 Build system based on CMake
+- 🧹 Clean and minimal, easy to extend
+- 🚀 Ready for multitasking, concurrency, semaphores, queues, mutexes, etc.
+- 🛡️ Designed for professional robotics, IoT, and embedded systems projects
+
+---
+
+## 📚 Project Structure
+
